@@ -19,7 +19,7 @@
 ## Table of Contents
 
 -   [Overview](#overview)
-    -   [Built With](#built-with)
+-   [Built With](#built-with)
 -   [Features](#features)
 -   [Acknowledgements](#acknowledgements)
 
@@ -29,7 +29,7 @@
 
 ![screenshot](img/screenshot.png)
 
-### Built With
+## Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
@@ -40,7 +40,7 @@
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. 
 
 ## Acknowledgements
 
