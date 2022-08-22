@@ -8,17 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://ViRT1ST.github.io/devchallenges-404-not-found/">
-      Demo
-    </a>
+    <a href="https://ViRT1ST.github.io/devchallenges-404-not-found/">Demo</a>
     <span> | </span>
-    <a href="https://github.com/ViRT1ST/devchallenges-404-not-found">
-      Solution
-    </a>
+    <a href="https://github.com/ViRT1ST/devchallenges-404-not-found">Solution</a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
-      Challenge
-    </a>
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">Challenge</a>
   </h3>
 </div>
 
