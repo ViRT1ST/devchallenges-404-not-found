@@ -134,3 +134,15 @@ footer p a {
     font-weight: 700;
     text-decoration: underline;
 }
+
+@media (max-width: 375px) {
+
+    body,
+    header p,
+    footer {
+        min-width: unset;
+        /* padding-left: 4rem; */
+        width: 375px;
+    }
+  
+}
